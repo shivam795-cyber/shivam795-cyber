@@ -2,7 +2,7 @@
 
 ## Name: shivam singh  
 ## Reg No: 25BCY10168
-## Branch: B.Tech in cyber    
+## Branch: B.Tech in cyber security   
 ## Year: 1st Year  
 
 ---
