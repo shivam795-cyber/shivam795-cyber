@@ -1,16 +1,35 @@
-## Hi there 👋
+# Digital Literacy Project
 
-<!--
-**shivam795-cyber/shivam795-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Name: shivam singh  
+## Reg No: 25BCY10168
+## Branch: B.Tech in cyber    
+## Year: 1st Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Project Overview
+This repository contains my Digital Literacy Project for CSE0001. It includes all five tasks covering digital awareness, portfolio building, platforms, email etiquette, and cybercrime awareness.
+
+---
+
+## Tasks
+
+### Task 1 – Presentation
+Infographic on digital literacy.
+
+### Task 2 – Portfolio
+Profiles on GitHub, LinkedIn, etc.
+
+### Task 3 – Platforms
+Coding platform + Google Form.
+
+### Task 4 – Email Etiquette
+Professional emails + checklist.
+
+### Task 5 – Cybercrime
+Case study + prevention tips.
+
+---
+
+## Google Form Link
+https://forms.gle/t6eXcLcpsxdLWzyD9
